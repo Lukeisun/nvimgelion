@@ -222,7 +222,7 @@ hi gitcommitSelectedFile guifg=#7cb375
 hi gitcommitUnmerged guifg=#7cb375
 hi gitcommitOverflow guifg=#fb3475
 hi Noise guifg=#d694fa
-hi TelescopePromptTitle guibg=#1f1c2a
+hi TelescopePromptTitle guifg=#b194fa guibg=#1f1c2a
 hi NotifyBackground guibg=bg
 hi LuasnipInsert guifg=#d694fa
 hi LuasnipChoice guifg=#c51af9
